@@ -7,6 +7,7 @@ for i in range(7, 0, -1):
     
 print("Program Penentu Jumlah Hari dalam Bulan (While Loop)")
 #Chalvin Azyzir Rasyid 065002600005
+#LATIHAN KEDUA
 status = "y"
 while status.lower() == "y":
     tahun = int(input("\nMasukkan Tahun (contoh: 2026): "))
