@@ -60,6 +60,7 @@ if jumlah_data > 0:
 '''Latihan 2 membuat program tiket bioskop dengan perulangan while.'''
 #Chalvin Azyzir Rasyid
 #065002600005
+#LATIHAN KEDUA
 total_harga = 0.0
 
 while True:
