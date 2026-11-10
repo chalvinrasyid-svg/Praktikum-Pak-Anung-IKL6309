@@ -1,6 +1,7 @@
 print("Program Perulangan Angka Menurun")
 #Chalvin Azyzir Rasyid 
 #065002600005 
+#LATIHAN PERTAMA
 for i in range(7, 0, -1):
     print(str(i) * i)
     
