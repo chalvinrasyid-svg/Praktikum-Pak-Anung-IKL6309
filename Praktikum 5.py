@@ -1,6 +1,7 @@
 '''
 latihan 1 membuat fungsi yang mengembalikan peringkat dari nilai huruf.
 '''
+#LATIHAN PERTAMA
 #Chalvin Azyzir Rasyid
 #065002600005
 def ord_nilai_huruf(huruf):
