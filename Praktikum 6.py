@@ -1,4 +1,4 @@
-
+#LATIHAN PERTAMA
 def cek_kabisat(tahun):
     if (tahun % 400 == 0) or (tahun % 4 == 0 and tahun % 100 != 0):
         return True
@@ -26,7 +26,7 @@ def jumlah_hari(bulan, tahun=0):
     
 #Chalvin Azyzir Rasyid
 #065002600005
-
+#LATIHAN KEDUA
 print("Program ini akan menentukan jumlah hari dalam bulan tertentu")
 while True:
     print("Masukkan 0 untuk menghentikan program")
